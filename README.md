@@ -1,5 +1,5 @@
 # Welcome to Starwipe's API Docs
-This is a mock API documentation site for an imaginary photo hosting service called Starwipe[<sup>1</sup>](#footnotes). It was created as a final group portfolio project for the [Technical Writing certificate program](https://www.pce.uw.edu/certificates/professional-technical-writing) at the University of Washington.
+This is a mock API documentation site for an imaginary photo hosting service called Starwipe[<sup>1</sup>](#footnotes). It was created as a final group portfolio project for the [Technical Writing certificate program](https://www.pce.uw.edu/certificates/professional-technical-writing) at the University of Washington, which I completed in November 2023.
 
 The API documented here is non-functional, as the app doesn't actually exist. Starwipe is a fictional app invented soley for the purposes of this project. Our goals for this project were to learn how to document REST APIs and create a representation of a documentation site using industry tools and processes. The site was built and deployed entirely with Stoplight (aside from some initial content drafting in Google Docs).
 
