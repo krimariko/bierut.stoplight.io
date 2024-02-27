@@ -1,9 +1,9 @@
-# Welcome to Starwipe's API Docs
+# Starwipe API Docs
 This is a mock API documentation site for an imaginary photo hosting service called Starwipe[<sup>1</sup>](#footnotes). It was created as a final group portfolio project for the [Technical Writing certificate program](https://www.pce.uw.edu/certificates/professional-technical-writing) at the University of Washington, which I completed in November 2023.
 
-The API documented here is non-functional, as the app doesn't actually exist. Starwipe is a fictional app invented soley for the purposes of this project. Our goals for this project were to learn how to document REST APIs and create a representation of a documentation site using industry tools and processes. The site was built and deployed entirely with Stoplight (aside from some initial content drafting in Google Docs).
+Starwipe is a fictional app that we invented for this project, thus the API documented here is non-functional. Our goals for this project were to learn how to document REST APIs and create a representation of a documentation site using industry tools and processes. The site was built and deployed entirely with Stoplight (aside from some initial content drafting in Google Docs).
 
-We designed a simple REST API following the [OpenAPI Specification](https://www.openapis.org/) standard. We used Stoplight's [API design editor](https://meta.stoplight.io/docs/platform/48mdongfx9bug-open-api-design-elements) to design our API and create an OAS spec with minimal hand coding.
+We designed a simple REST API following the [OpenAPI Specification](https://www.openapis.org/) standard. Stoplight's [API design editor](https://meta.stoplight.io/docs/platform/48mdongfx9bug-open-api-design-elements) simplified this process considerably and made it possible for us create a fully-formed OAS spec with minimal hand coding.
 
 I worked with 5 other students and completed the project over the course of 9 weeks. It was an ambitious undertaking that required extensive background research and rapid learning. We came into the project with minimal knowledge of APIs and faced a steep learning curve. I worked through a large chunk of Tom Johnson's [API documentation course](https://idratherbewriting.com/learnapidoc/) to get myself up to speed and found it an invaluable resource.
 
